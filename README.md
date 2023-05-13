@@ -1,6 +1,7 @@
 class car {
 static vouid Main()
 {
-Console.Writeline("repo was craeting");
+Console.Writeline("repo was creating");
+console.writeline("this i second line");
 }
 }
