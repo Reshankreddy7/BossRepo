@@ -1,2 +1,7 @@
-# BossRepo
-welcome to boss repo
+class car {
+static vouid Main()
+{
+Console.Writeline("repo was creating");
+console.writeline("this is a second line");
+}
+}
