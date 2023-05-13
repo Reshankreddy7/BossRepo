@@ -1,2 +1,6 @@
-# BossRepo
-welcome to boss repo
+class car {
+static vouid Main()
+{
+Console.Writeline("repo was craeting");
+}
+}
